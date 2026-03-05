@@ -32,7 +32,8 @@ NLP pipeline for analyzing 87,832 Sephora customer reviews across 153 products a
 
 ## Repository Structure
 ```
-└── sephora_sentiment_analysis.ipynb    # Full pipeline (lexicon → sentiment → lift scoring)
+├── sephora_sentiment_analysis.ipynb    # Full pipeline (lexicon → sentiment → lift scoring)
+└── report.pdf                          # Final project report
 ```
 
 > **Note:** Dataset not included. Source: Sephora product reviews dataset (87,832 reviews, available on Kaggle).

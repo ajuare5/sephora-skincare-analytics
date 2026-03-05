@@ -2,6 +2,8 @@
 
 NLP pipeline for analyzing 87,832 Sephora customer reviews across 153 products and 67+ brands. Builds a custom attribute lexicon to identify key product features, scores sentiment at the sentence level, and measures brand-level attribute lift to reveal what drives positive and negative perception.
 
+[View Report](report.pdf)
+
 ## Team
 - Arturo Juarez Jr.
 - Abhilash Bagde
